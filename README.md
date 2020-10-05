@@ -8,6 +8,9 @@ You can modify the maze materials, custom models.
 This project contains a scene "MazeGen". The GameObject MazeGen hook up the script MazeGenerator. This component takes a GameObject
 Wall (use the provided or another one) with Wall Length 2 (z-axis unit of the wall), x, and y size. 
 
+For the entrance/exit of the maze, delete two walls of the outer walls of the maze. Because it is a perfect maze it
+does not matter where you set the entrance/exit.
+
 Run the project the maze will be generated (Maze GameObject). Drag and Drop the Maze in Playmode into the Prefabs folder to save
 it for further usage.
 
