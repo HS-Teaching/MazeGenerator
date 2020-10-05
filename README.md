@@ -1,6 +1,6 @@
 # MazeGenerator
 
-###Description
+### Description
 The MazeGenerator is based on the Tutorial (http://flattutorials.blogspot.de/2015/02/lets-create-perfect-maze-generator.html, the link is broken 05.10.20). 
 With the script, you can generate a perfect maze. 
 You can make a prefab and use this as the basis for your maze.
@@ -14,7 +14,7 @@ it for further usage.
 <img src="Screenshots/Maze3x3.JPG" width="500">
 <img src="Screenshots/Maze10x20.JPG" width="500">
 
-###Development platform
+### Development platform
 Unity 2020.1.5f1, Windows 10, Visual Studio Community 2019
 
 
