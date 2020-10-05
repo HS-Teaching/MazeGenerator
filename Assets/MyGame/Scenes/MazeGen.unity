@@ -154,8 +154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wall: {fileID: 1970044147}
   wallLength: 2
-  xSize: 10
-  ySize: 20
+  xSize: 3
+  ySize: 3
 --- !u!4 &229961334
 Transform:
   m_ObjectHideFlags: 0
